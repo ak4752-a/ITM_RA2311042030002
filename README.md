@@ -21,7 +21,7 @@
 This repository contains IT Project Management practical documentation for the project focused on Sanskrit NLP using AI-based morphological and semantic analysis. The work covers requirement analysis, feasibility, estimation, scheduling, risk management, performance tracking, audits, Agile/XP/Lean practices, and DevOps integration.
 
 ### Summary Metrics
-- **Total Estimated Project Cost:** INR 33–41 Lakhs
+- **Total Estimated Project Cost:** INR 33-41 Lakhs
 - **Project Duration (Baseline):** 218 days (approximately 10.5 months)
 - **Payback Period:** 3–4 years
-- **Net Present Value (10% discount rate):** Positive (INR 12.6 Lakhs)
+- **Net Present Value (10% discount rate):** INR +12.6 Lakhs

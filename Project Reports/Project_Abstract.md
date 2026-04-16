@@ -17,10 +17,10 @@
 This project report documents practical IT Project Management exercises for building an AI-driven Sanskrit NLP framework focused on morphological analysis, semantic parsing, and structured knowledge extraction inspired by Panini’s Ashtadhyayi grammar.
 
 ## Key Outcomes
-- **Estimated Cost:** INR 33–41 Lakhs
+- **Estimated Cost:** INR 33-41 Lakhs
 - **Baseline Duration:** 218 days (approximately 10.5 months)
 - **Payback Period:** 3–4 years
-- **NPV (10% discount rate):** Positive (INR 12.6 Lakhs)
+- **NPV (10% discount rate):** INR +12.6 Lakhs
 
 ## Scope Highlights
 - Requirement gathering, feasibility analysis, stakeholder analysis
