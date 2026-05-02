@@ -38,4 +38,15 @@ ITM_RA2311042030002/
 ## Project Abstract
 **Project Title:** AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis
 
-This repository contains IT Project Management practical documentation for the project focused on Sanskrit NLP using AI-based morphological and semantic analysis. The work covers requirement analy[...]
+The **AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis** is an IT Project Management-based initiative aimed at designing an intelligent Natural Language Processing system for analyzing classical Sanskrit texts. The framework focuses on morphological analysis, semantic parsing, and knowledge extraction inspired by Pāṇini’s Ashtadhyayi grammar.
+
+The project applies core IT project management practices, including requirement analysis, feasibility study, cost estimation (COCOMO, Function Point Analysis), and financial evaluation using Net Present Value (NPV). Project scheduling is performed using PERT and CPM, identifying a critical path with a total duration of 218 days.
+
+Performance monitoring is conducted through Earned Value Analysis (EVA), while risk management is handled using an RMMM plan. Agile methodologies (Scrum and Extreme Programming) and DevOps practices (Docker-based CI/CD) are incorporated to ensure efficient development and delivery.
+
+- **Estimated Cost:** INR 33–41 Lakhs  
+- **Duration:** ~218 days (10.5 months)  
+- **Payback Period:** 3–4 years  
+- **NPV:** Positive  
+
+This project emphasizes structured planning, estimation, risk control, and modern software delivery practices from an IT Project Management perspective.
