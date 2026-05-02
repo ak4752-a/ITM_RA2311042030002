@@ -11,7 +11,8 @@
 - **Course Name:** IT PROJECT MANAGEMENT
 
 ## Repository Structure
-``ITM_RA2311042030002/
+```text
+ITM_RA2311042030002/
 ├── README.md
 ├── Academic Reports/
 │   ├── Assignment_Objectives.md
@@ -31,14 +32,10 @@
     ├── README.md
     ├── Project_Abstract.md
     ├── AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis PPT.pdf
-    └── AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis Project File.pdf``
+    └── AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis Project File.pdf
+```
+
 ## Project Abstract
 **Project Title:** AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis
 
-This repository contains IT Project Management practical documentation for the project focused on Sanskrit NLP using AI-based morphological and semantic analysis. The work covers requirement analysis, feasibility, estimation, scheduling, risk management, performance tracking, audits, Agile/XP/Lean practices, and DevOps integration.
-
-### Summary Metrics
-- **Total Estimated Project Cost:** INR 33-41 Lakhs
-- **Project Duration (Baseline):** 218 days (approximately 10.5 months)
-- **Payback Period:** 3–4 years
-- **Net Present Value (10% discount rate):** INR +12.6 Lakhs
+This repository contains IT Project Management practical documentation for the project focused on Sanskrit NLP using AI-based morphological and semantic analysis. The work covers requirement analy[...]
