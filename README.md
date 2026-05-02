@@ -13,7 +13,6 @@
 ## Repository Structure
 - **Academic Reports/**: Files and material related to experiments/practicals as per academic syllabus.
 - **Project Reports/**: Files related to the project work and project documentation.
-- **docs/**: Legacy documentation reference folder.
 
 ## Project Abstract
 **Project Title:** AI-Powered Sanskrit NLP Framework for Morphological and Semantic Analysis
